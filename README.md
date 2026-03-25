@@ -5,7 +5,7 @@ This repository reproduces the results of  [Abi Jaber and Sotnikov (2025)](https
 
 ### Examples of illustrations 
 
-
+![OU](assets/comparison_OU.png)
 
 ### Disclaimer 
 Source code is available upon request. Please contact me directly. 
