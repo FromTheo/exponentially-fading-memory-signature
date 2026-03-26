@@ -7,5 +7,7 @@ This repository reproduces the results of  [Abi Jaber and Sotnikov (2025)](https
 
 ![OU](assets/comparison_OU.png)
 
+![REG](assets/regression_lanvegin.png)
+
 ### Disclaimer 
 Source code is available upon request. Please contact me directly. 
