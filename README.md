@@ -7,6 +7,8 @@ We implement:
 
 ### Examples of illustrations 
 
+[!VIX](assets/forecast_vix.png)
+
 ![OU](assets/comparison_OU.png)
 
 ![REG](assets/regression_langevin.png)
