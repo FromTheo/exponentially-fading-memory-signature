@@ -3,8 +3,7 @@
 This repository reproduces the results of  [Abi Jaber and Sotnikov (2025)](https://arxiv.org/pdf/2507.03700). 
 
 We implement: 
-- 
-- 
+- (see `demo.ipynb`)
 
 ### Examples of illustrations 
 
