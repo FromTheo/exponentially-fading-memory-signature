@@ -7,7 +7,7 @@ We implement:
 
 ### Examples of illustrations 
 
-[!VIX](assets/forecast_vix.png)
+![VIX](assets/forecast_vix.png)
 
 ![OU](assets/comparison_OU.png)
 
