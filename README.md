@@ -14,5 +14,7 @@ We implement:
 
 ![REG](assets/regression_langevin.png)
 
+![MOMENTS](assets/conditional_OU_EFM_2.png)
+
 ### Disclaimer 
 Source code is available upon request. Please contact me directly. 
