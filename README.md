@@ -4,7 +4,7 @@ This repository reproduces the results of  [Abi Jaber and Sotnikov (2025)](https
 
 We implement: 
 - (see `demo.ipynb`)
-- (see `forecasting_VIX.ipynb`) 
+- (see `forecasting.ipynb`) 
 
 ### Examples of illustrations 
 
