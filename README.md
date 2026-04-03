@@ -5,7 +5,7 @@ This repository reproduces the results of  [Abi Jaber and Sotnikov (2025)](https
 We implement: 
 - (see `demo.ipynb`)
 - (see `forecasting.ipynb`) 
-- (see `moments.ipynb`)
+- (see `moments_EFM.ipynb`)
 
 ### Examples of illustrations 
 
