@@ -6,7 +6,7 @@ We implement:
 - (see `demo.ipynb`)
 - (see `forecasting.ipynb`) 
 - (see `moments_EFM.ipynb`)
-- (see `characteristic_function.ipynb`)
+- (see `characteristic_function.ipynb`) 
 
 ### Examples of illustrations 
 
