@@ -5,7 +5,7 @@ This repository reproduces the results of  [Abi Jaber and Sotnikov (2025)](https
 We implement: 
 - (see `demo.ipynb`)
 - (see `forecasting.ipynb`) 
-- computation of conditional moments of Ornstein-Uhlenbeck and CIR processes, multi-factor approximation of completely monotone kernels for the conditional moments of Gaussian Volterra processes $$X_t = \int_{-\infty}^t K(t-s)\, dW_s,\quad t\in \mathbb{R}.$$ (see `moments_EFM.ipynb`), 
+- computation of conditional moments of Ornstein-Uhlenbeck and CIR processes, multi-factor approximation of completely monotone kernels for the conditional moments of Gaussian Volterra processes $X_t = \int_{-\infty}^t K(t-s)\, dW_s$, for $t\in \mathbb{R}.$ (see `moments_EFM.ipynb`), 
 - (see `characteristic_function.ipynb`) 
 
 ### Examples of illustrations 
@@ -16,7 +16,9 @@ We implement:
 
 ![REG](assets/regression_langevin.png)
 
-![MOMENTS](assets/conditional_OU_EFM_2.png)
+<!--![MOMENTS](assets/conditional_OU_EFM_2.png)"""--> 
+
+![VOLSWAP](assets/vol_swaps_SteinStein_EFM.png)
 
 ### Disclaimer 
 Source code is available upon request. Please contact me directly. 
