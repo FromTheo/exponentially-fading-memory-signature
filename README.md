@@ -4,7 +4,7 @@ This repository reproduces the results of  [Abi Jaber and Sotnikov (2025)](https
 
 We implement: 
 - (see `demo.ipynb`)
-- (see `forecasting.ipynb`) 
+- forecasting of the VIX index and SPX realized volatility, and comparison with HAR in the same spirit as in [Hager, Harang, Pelizzari and Tindel](https://arxiv.org/pdf/2603.04525) (see `forecasting.ipynb`), 
 - computation of conditional moments of Ornstein-Uhlenbeck and CIR processes, multi-factor approximation of completely monotone kernels for the conditional moments of Gaussian Volterra processes $X_t = \int_{-\infty}^t K(t-s)\, dW_s$, for $t\in \mathbb{R}.$ (see `moments_EFM.ipynb`), 
 - (see `characteristic_function.ipynb`), 
 - introduction of a model in which the instantaneous volatility is given by a linear combination of elements of the EFM-signature of time-augmented Brownian motion, pricing of $q$-Volatility swaps and computation of IV via Fourier inversion (see `fourier_EFM.ipynb`),
