@@ -17,8 +17,6 @@ We implement:
 
 ![REG](assets/regression_langevin.png)
 
-<!--![MOMENTS](assets/conditional_OU_EFM_2.png)"""--> 
-
 ![VOLSWAP](assets/vol_swaps_SteinStein_EFM.png)
 
 ### Disclaimer 
